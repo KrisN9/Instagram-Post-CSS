@@ -3,10 +3,17 @@ div {
     width: 200px;
     height: 200px;
 }
-.i {
+.div html-icon {
     float: left;
+    font-size: 100px;
+}
+.div header-title {
+    float: right;
 }
 post-img {
     max-width: 400px;
     max-height: 400px;
+}
+.div-post .post-header {
+    display: inline-block;
 }
