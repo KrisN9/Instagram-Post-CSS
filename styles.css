@@ -1,0 +1,21 @@
+/* body {
+    background-color: black;
+} */
+
+#post {
+    border: 3px solid;
+    max-width: 995px;
+}
+
+#icons {
+    font-size: 30px;
+    margin-top: 10px;
+    margin-left: 7px;
+    margin-right: 7px;
+}
+
+#post-body {
+    max-width: 995px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
