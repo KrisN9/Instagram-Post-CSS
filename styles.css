@@ -1,6 +1,7 @@
 #post {
     border: 3px solid;
     max-width: 995px;
+    margin: 0 auto;
 }
 
 #icons {
